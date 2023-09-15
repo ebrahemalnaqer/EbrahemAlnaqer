@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ebrahem alnaqer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebrahem alnaqer" height="30" width="40" /></a>
-<a href="https://fb.com/ebrahem alnaqer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ebrahem alnaqer" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ebrahem-alnaqer-064aa6244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebrahem alnaqer" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100085492867588&mibextid=b06tZ0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ebrahem alnaqer" height="30" width="40" /></a>
 <a href="https://instagram.com/ebrahem alnaqer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ebrahem alnaqer" height="30" width="40" /></a>
 </p>
 
